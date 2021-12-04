@@ -57,10 +57,10 @@ def part2(
 
 puzzle_input = read_input('input1.txt')
 
-#Part 1 solution
+#Part 1 Solution
 part1_solution = part1(puzzle_input)
 print("Part 1 Solution: %s"%part1_solution)
 
-#Part 2 solution
+#Part 2 Solution
 part2_solution = part2(puzzle_input)
 print("Part 2 Solution: %s"%part2_solution)
