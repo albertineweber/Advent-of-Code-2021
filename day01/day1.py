@@ -1,3 +1,12 @@
+# --- Advent of Code 2021 --- 
+# --- Day 1: Sonar Sweep ---
+#       _____
+#     _|____|_
+#     ( '<' )
+#  >-(   o   )-<
+#   (    o    )
+#  (     o     )
+
 def read_input(filename):
     input_file = open(filename, 'r')
     input_lst = [int(line.split()[0]) for line in input_file]
