@@ -35,7 +35,7 @@ def part1(
 def part2(
     input_lst: list,
 ) -> int:
-    """This function calculate the number of measurements that 
+    """This function calculates the number of measurements that 
     are larger than the previous measurement in a moving window of len 3.
 
     Args:
